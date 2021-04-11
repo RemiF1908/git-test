@@ -1,4 +1,3 @@
-dsdds
-dsdsdsdsdsdsds
-dsjdksksdjsab
-djdzjadjekfefjefedf
+<?php
+echo 'Hello world !';
+?>
